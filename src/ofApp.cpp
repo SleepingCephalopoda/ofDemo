@@ -1,8 +1,14 @@
+// Included already via OpenFrameworks.
+#include <iostream>
+#include <string>
+
 #include "ofApp.h"
+
 
 //--------------------------------------------------------------
 void ofApp::setup(){
 
+	cout << "Hello from setup.";
 }
 
 //--------------------------------------------------------------
